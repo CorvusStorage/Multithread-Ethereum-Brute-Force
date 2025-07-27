@@ -16,7 +16,6 @@ function credit(){
   console.log("ETH & BNB: 0x68B6D33Ad1A3e0aFaDA60d6ADf8594601BE492F0");
   console.log("SOL: FsX3CsTFkRjzne2KiD8gjw3PEW2bYqezKfydAP55BVj7");
   console.log("=================================================================");
-
 };
 
 
