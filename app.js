@@ -26,7 +26,6 @@ const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout
 });
-
 console.log();
 rl.question('Enter Number 1 to run Simplified view or Number 2 for Secondary view("May not work on some computers.") and press enter: ', (answer) => {
   rl.close();
