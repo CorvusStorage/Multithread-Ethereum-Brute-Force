@@ -4,7 +4,6 @@ process.title = "Multithread Ethereum Bruteforce by Corvus Codex";
 
 const readline = require('readline');
 const { spawn } = require('child_process');
-
 function credit(){
   console.log("=================================================================");
   console.log("Created by: Corvus Codex");
